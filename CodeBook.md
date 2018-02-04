@@ -1,5 +1,5 @@
 # Code Book for Coursera Getting and Cleaning Data Assignment:
-# Human Activity Recognition Using Smartphones Data Set 
+Human Activity Recognition Using Smartphones Data Set 
 
 # This file includes original data description, transformation, list of variables in clean data set and the units
 
