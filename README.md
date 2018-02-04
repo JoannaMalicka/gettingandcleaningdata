@@ -1,6 +1,6 @@
-## Here you can find the description of **Study Design** and **analysis performed by the script**
+# Here you can find the description of **Study Design** and **analysis performed by the script**
 
-# Introduction
+## Introduction
 *run_analysis* is an R script that performs ordering and cleaning procedure of data collected during the experiment in which activity of human volunteers was tracked by accelerometers in Samsung smart phone. A full description is available at: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
@@ -31,7 +31,7 @@ and two folders: train and test. In test folder are:
 All these necessary files were placed into a new folder FilesForAnalysis. 
 **R working directory should be set to FilesForAnalysis folder**
 
-# Trasformation done by run_analysis
+## Trasformation done by run_analysis
 1. **Setting up**
 The working directory has to be set manually by user to FilesForAnalysis.
 run_analysis loads all the necessary files to the environment. 
