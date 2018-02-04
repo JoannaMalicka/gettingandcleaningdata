@@ -1,9 +1,9 @@
-### Code Book for Coursera Getting and Cleaning Data Assignment:
-### Human Activity Recognition Using Smartphones Data Set 
+# Code Book for Coursera Getting and Cleaning Data Assignment:
+# Human Activity Recognition Using Smartphones Data Set 
 
-## This file includes original data description, transformation, list of variables in clean data set and the units
+# This file includes original data description, transformation, list of variables in clean data set and the units
 
-## Original data set description:
+### Original data set description:
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
@@ -123,7 +123,7 @@ tBodyGyroJerkMean
 The complete list of variables of each feature vector is available in 'features.txt'
 
 
-#### Data transformation, list of variables and units
+## Data transformation, list of variables and units
 
 ## Data transformation
  1. Traing and test data set were merged to one data set
